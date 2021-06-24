@@ -1,6 +1,6 @@
 # Gooreo Links
 
-<p><a href="https://github.com/Gooreo/whitepaper" target="_blank" rel="noopener">White Paper</a></p>
+<p><a href="https://github.com/Gooreo/whitepaper" target="_blank" rel="noopener">Whitepaper</a></p>
 <p><a href="https://t.me/Gooreo" target="_blank" rel="noopener">Telegram</a></p>
 <p><a href="https://twitter.com/Gooreoplatform" target="_blank" rel="noopener">Twitter</a></p>
 <p><a href="https://www.instagram.com/gooreoplatform/" target="_blank" rel="noopener">Instagram</a></p>
